@@ -1,0 +1,6 @@
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup/>
+  <ItemGroup>
+    <PackageReference Include="SendGrid" Version="9.17.0"/>
+  </ItemGroup>
+</Project>

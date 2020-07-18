@@ -1,0 +1,8 @@
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\obj\Debug\netstandard2.0\Empit.Data.csprojAssemblyReference.cache
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\obj\Debug\netstandard2.0\Empit.Data.AssemblyInfoInputs.cache
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\obj\Debug\netstandard2.0\Empit.Data.AssemblyInfo.cs
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\bin\Debug\netstandard2.0\Empit.Data.deps.json
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\bin\Debug\netstandard2.0\Empit.Data.dll
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\bin\Debug\netstandard2.0\Empit.Data.pdb
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\obj\Debug\netstandard2.0\Empit.Data.dll
+C:\Users\Iman Dissanayake\source\repos\EmpiteTech\Empit.Data\obj\Debug\netstandard2.0\Empit.Data.pdb
